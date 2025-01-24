@@ -1,7 +1,6 @@
 tmp/
 Thumbs.db
-index.html_old
-*.png_backup
-*.html_old
-*.DS_Store
+*.*backup
+*.*old
+.DS_Store
 
